@@ -1,0 +1,8 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+scipy>=1.9
+lmfit>=1.2
+pillow>=10.0; platform_system=="Windows"
+pywin32>=306; platform_system=="Windows"
+pyinstaller
