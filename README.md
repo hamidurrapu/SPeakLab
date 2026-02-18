@@ -1,5 +1,7 @@
 # SPeakLab - Raman Module
 
+Download the latest stable release at https://drive.google.com/file/d/1AaZIqtiQ87nwisNZrA7lAqpbOr4V071n/view?usp=sharing
+
 This project includes a Tkinter GUI (`speaklab_gui.py`) for Raman fitting. You can package it as a standalone app for Windows, macOS, or Linux using PyInstaller.
 
 ## Prerequisites
